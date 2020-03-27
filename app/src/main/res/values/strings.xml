@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Click Event Listener</string>
+    <string name="lbl_btn1">Default Click</string>
+    <string name="lbl_btn2">Custom Click</string>
+    <string name="lbl_btn3">Toast Message</string>
+    <string name="msg_default_btn">!!!!!!!!! Click On Default Button On Click Listener !!!!!!!!!</string>
+    <string name="msg_custom_btn">!!!!!!!!! Click On Custom Button On Click Listener !!!!!!!!!</string>
+    <string name="msg_toast_btn">Toast message using view object and activity instance</string>
+</resources>
